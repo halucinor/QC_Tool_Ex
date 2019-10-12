@@ -5,7 +5,7 @@
 
 1.파레토도
 
-![pareto](./result/파레토 차트.PNG)
+![pareto](./result/파레토_차트.PNG)
 
 
 2.히스토그램
